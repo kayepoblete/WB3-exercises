@@ -6,7 +6,8 @@ function convertFtoC(fahrenheitTemp) {
 
 let currentTemp = 92;
 let celsiusTemp = convertFtoC(currentTemp);
-// console.log(celsiusTemp);
+console.log(celsiusTemp);
+
 console.log(convertFtoC(212));
 console.log(convertFtoC(90));
 console.log(convertFtoC(72));
