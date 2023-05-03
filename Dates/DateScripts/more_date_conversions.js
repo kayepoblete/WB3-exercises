@@ -7,5 +7,5 @@ console.log(myBirthday.toLocaleString());
 let momBirthday = new Date("June 13 1966");
 console.log(momBirthday.toLocaleString());
 
-let dadBirthday = new Date("1966, 10, 6");
+let dadBirthday = new Date(1966, 9, 6);
 console.log(dadBirthday.toLocaleString());
